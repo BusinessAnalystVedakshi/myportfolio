@@ -4,9 +4,8 @@ import { Download } from 'lucide-react';
 
 const Header = () => {
   const handleDownloadResume = () => {
-    // Create a downloadable resume link
-    // You'll need to host your resume PDF somewhere accessible
-    const resumeUrl = '/assets/Vedakshi_Gawde_Resume.pdf'; // Update this path
+    // Updated path for GitHub Pages
+    const resumeUrl = '/myportfolio/Vedakshi_Gawde_Resume.pdf'; // Updated path for GitHub Pages
     const link = document.createElement('a');
     link.href = resumeUrl;
     link.download = 'Vedakshi_Gawde_Business_Analyst_Resume.pdf';
