@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vedakshi-portfolio/static/css/main.aadbc56d.css",
+    "main.js": "/vedakshi-portfolio/static/js/main.87dc6f71.js",
+    "index.html": "/vedakshi-portfolio/index.html",
+    "main.aadbc56d.css.map": "/vedakshi-portfolio/static/css/main.aadbc56d.css.map",
+    "main.87dc6f71.js.map": "/vedakshi-portfolio/static/js/main.87dc6f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadbc56d.css",
+    "static/js/main.87dc6f71.js"
+  ]
+}
